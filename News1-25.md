@@ -54,3 +54,9 @@ COSIV aims to maintain a strong presence in the following **Upcoming conferences
 Cities and Volcanoes: Global Volcano Communities (TBC)
 
 IUGG 2027 General Assembly, Seoul
+
+---
+Thank you to all who participated in the past commission activities and helped to make a successful conference in Geneva!
+
+*Jet d'Eau at the IAVCEI Scientific Assembly in Geneva, image from Andrea Bevilacqua*
+![Jet d'Eau](jetdeau.jpg)
