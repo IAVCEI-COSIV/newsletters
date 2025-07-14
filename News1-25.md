@@ -1,6 +1,9 @@
-![COSIV logo](logo.png)
+![](logo.png)
+
 # IAVCEI Commission on Statistics in Volcanology
+
 ## Newsletter 1 2025
+
 ### Message from outgoing co-leaders and activities
 Stuart Mead and Susanna Jenkins were co-leaders from the IAVCEI Scientific Assembly in Rotorua. Leading is rewarding, but challenging, the short time between assemblies and our presence in the antipodes made co-ordination and communication complex. Despite this, we would like to think all members who have supported the commission with ideas, supporting sessions at major conferences, administration of the *Statistics in Volcanology* journal, and laying the groundwork for an exciting workshop.
 
@@ -58,5 +61,6 @@ IUGG 2027 General Assembly, Seoul
 ---
 Thank you to all who participated in the past commission activities and helped to make a successful conference in Geneva!
 
+![](jetdeau.jpg)
+
 *Jet d'Eau at the IAVCEI Scientific Assembly in Geneva, image from Andrea Bevilacqua*
-![Jet d'Eau](jetdeau.jpg)
